@@ -1,0 +1,13 @@
+{
+    "name": "json-rest",
+    "version": "0.0.1",
+    "private": false,
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:jspears/json-rest.git"
+    },
+    "dependencies": {
+        "optimist":"latest",
+        "request":"latest"
+    }
+}
